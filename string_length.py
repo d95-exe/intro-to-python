@@ -1,0 +1,1 @@
+print(f"\nLength is {len(input("Enter a string and I'll find it's length\n>>>"))}.")
